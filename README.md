@@ -16,7 +16,7 @@ Library that references the CoinsAPI for use in Maven projects.
 ```xml
 <dependency>
   <groupId>com.github.Altzenck</groupId>
-  <artifactId>CoinsAPI</artifactId>
+  <artifactId>CoinsAPI-api-lib-ref</artifactId>
   <version>1.8.9</version>
   <scope>provided</scope>
 </dependency>
